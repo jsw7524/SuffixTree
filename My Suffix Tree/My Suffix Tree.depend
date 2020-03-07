@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1249453129 source:d:\mydata\my suffix tree\main.cpp
+	<iostream>
+	<cstring>
+
+1249453129 source:d:\mydata\programs\my suffix tree\main.cpp
+	<iostream>
+	<cstring>
+
